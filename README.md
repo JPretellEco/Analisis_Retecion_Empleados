@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # 📊 Store24 (A): Gestión de Retención de Empleados
 
 Este proyecto documenta y analiza el caso **Store24 (A)** de Harvard Business School, enfocado en la **retención de empleados** y su impacto en el desempeño financiero de una cadena de tiendas de conveniencia.
